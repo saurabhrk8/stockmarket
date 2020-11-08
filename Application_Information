@@ -1,0 +1,9 @@
+Guide to use this Application - 
+
+    1. Data was stored in the memory database H2 and every time application starts its load with the data given in the requirement.      
+     
+    2. To run the program just run:  java -jar stockmarket-0.0.1-SNAPSHOT.jar
+ 
+    3. To run rest API use Postman collection attached       
+
+# Controller class -  com.jpmc.stockmarket.controller.StockMarketController.java
